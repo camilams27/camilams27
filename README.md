@@ -2,7 +2,7 @@
 My name is Camila Silva 👩🏽🇧🇷 <br>
 I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 📍Pernambuco, Brazil <br>
-#### "Estamos em constantes mudanças" <br>
+
 ####  Knowledge 🧠
 - Python
 - Java
