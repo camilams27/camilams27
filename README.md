@@ -1,7 +1,7 @@
 ### < Hello World! >
 My name is Camila Silva 👩🏽🇧🇷 <br>
 I'm a studant of systems analysis and development 👩🏽‍💻 <br>
-📍Pernambuco, Brazil <br>
+📍 Pernambuco, Brazil <br>
 
 ####  Knowledge 🧠
 - Python
