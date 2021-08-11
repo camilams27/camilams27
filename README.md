@@ -16,7 +16,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 
 <div>
   <a href="https://github.com/camilams27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilams27&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilams27&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ### Find me elsewhere 🌎
@@ -24,3 +24,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 - 💼 [LinkedIn](https://www.linkedin.com/in/camila-silva-8968aa1b3/)
 - 📧 [Email](mailto:camilamariasilva.2021@gmail.com)
  
+<img align="right" alt="Camila-Animation" src="https://camilams27.github.io/imagem/">
+  
+  
+  
