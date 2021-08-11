@@ -24,7 +24,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 - 💼 [LinkedIn](https://www.linkedin.com/in/camila-silva-8968aa1b3/)
 - 📧 [Email](mailto:camilamariasilva.2021@gmail.com)
  
-<img align="right" alt="Camila-Animation" src="https://camilams27.github.io/imagem/">
+<!-- <img align="right" alt="Camila-Animation" src="https://discord.com/channels/747573125226561557/747609028598956092/874851342710083664"> -->
   
   
   
