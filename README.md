@@ -30,7 +30,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 </div>
 
 
- <a href="https://github.com/camilams27" target="_blank" align="right"><img alt="Camila-Animation" src="https://camilams27.github.io/imagem/heyy.gif" widht="150" height="150"></a>
+ <a href="https://github.com/camilams27"><img target="_blank" align="right" alt="Camila-Animation" src="https://camilams27.github.io/imagem/heyy.gif" widht="150" height="150"></a>
 
 
   
