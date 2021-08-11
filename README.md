@@ -29,9 +29,9 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
   
 </div>
 
-<div style="float: right">
-  <a href="https://github.com/camilams27" target:_blank ><img alt="Camila-Animation" src="https://camilams27.github.io/imagem/heyy.gif" widht="150" height="150"></a>
-</div>
+
+ <a href="https://github.com/camilams27" target="_blank" align="right"><img alt="Camila-Animation" src="https://camilams27.github.io/imagem/heyy.gif" widht="150" height="150"></a>
+
 
   
   
