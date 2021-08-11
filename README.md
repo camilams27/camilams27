@@ -10,9 +10,9 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 - HTML
 ####  Learning 🚀
 - JavaScript
-- SQL  
+- MySQL  
 - PHP
-- Excel
+- React
 
 <div>
   <a href="https://github.com/camilams27">
