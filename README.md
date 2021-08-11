@@ -29,7 +29,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
   <a href = "mailto:camilamariasilva.2021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camila-silva-8968aa1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/camilams27)
+  ![Snake animation](https://github.com/camilams27/camilams27/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   
