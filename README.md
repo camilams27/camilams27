@@ -11,13 +11,13 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
   
 ###  Learning 🚀
 <div>
-    <img align="center" alt="JavaScript" height="30" width="110" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="PHP" height="30" width="75" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img align="center" alt="Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img align="center" alt="Jquery" height="30" width="100" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img align="center" alt="JavaScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
+    <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+    <img align="center" alt="PHP" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/php-logo.png"/>
+    <img align="center" alt="React" height="50" width="50" src="https://img.icons8.com/ios/50/000000/react-native--v2.png"/>
+    <img align="center" alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img align="center" alt="Angular" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/angularjs.png"/>
+    <img align="center" alt="Jquery" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
 </div>
   
 <div style="display:inline_block">
