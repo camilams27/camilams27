@@ -22,7 +22,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
   
 <div style="display:inline_block">
     
-  ### Find me elsewhere 🌎      <a href="https://github.com/camilams27"><img align="right" alt="Camila-Animation" src="https://camilams27.github.io/imagem/heyy.gif" widht="150" height="150"></a>
+  ### Find me elsewhere 🌎      <a href="https://github.com/camilams27"><img align="right" alt="Camila-Animation" src="https://i.picasion.com/pic91/6361b75c88ba96505e287fa9833686a9.gif" widht="150" height="150"></a>
  
   <a href="https://instagram.com/camii.las" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
