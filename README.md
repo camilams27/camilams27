@@ -13,11 +13,10 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 <div>
     <img align="center" alt="JavaScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
     <img align="center" alt="React" height="50" width="50" src="https://img.icons8.com/color/48/4a90e2/react-native.png"/>
-    <img align="center" alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img align="center" alt="Angular" height="50" width="50" src="https://img.icons8.com/color/48/fa314a/angularjs.png"/>
-    <img align="center" alt="Jquery" height="50" width="50" src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/>
-    <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/color/48/4a90e2/mysql-logo.png"/>
-    <img align="center" alt="PHP" height="50" width="50" src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png"/>
+<!--     <img align="center" alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> -->
+<!--     <img align="center" alt="Angular" height="50" width="50" src="https://img.icons8.com/color/48/fa314a/angularjs.png"/> -->
+<!--     <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/color/48/4a90e2/mysql-logo.png"/>
+    <img align="center" alt="PHP" height="50" width="50" src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png"/> -->
 </div>
   
 <div style="display:inline_block">
