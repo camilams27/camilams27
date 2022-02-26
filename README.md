@@ -22,6 +22,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
 ###  Learning 🚀
   
 <div style="display:inline_block">
+    <img align="center" alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <img align="center" alt="Sass" height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img align="center" alt="Python" height="50" width="50" src="https://img.icons8.com/color/python"/>
     <img align="center" alt="Django" height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png"/>
