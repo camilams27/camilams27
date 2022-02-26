@@ -31,6 +31,8 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
     <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/color/48/4a90e2/mysql-logo.png"/>
     <img align="center" alt="SQL Server" height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
     <img align="center" alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+    <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+  align="center" alt="Sass" height="50" width="50"
 <!--     <img align="center" alt="PHP" height="50" width="50" src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png"/> -->
 </div>
   
