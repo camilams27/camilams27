@@ -8,17 +8,7 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilams27&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>      
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilams27&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
-  
-### Knowledge 🧠
-  <div style="display:inline_block">
-      <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/color/2x/html-5.png"/>
-      <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-      <img align="center" alt="JavaScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> 
-      <img align="center" alt="NodeJS" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-      <img align="center" alt="React" height="50" width="50" src="https://img.icons8.com/color/48/4a90e2/react-native.png"/>
-      <img align="center" alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  </div>
-  
+   
 <div style="display:inline_block">
     
   ### Find me elsewhere 🌎      <a href="https://github.com/camilams27"><img align="right" alt="Camila-Animation" src="https://i.picasion.com/pic91/6361b75c88ba96505e287fa9833686a9.gif" widht="150" height="150"></a>
