@@ -19,28 +19,6 @@ I'm a studant of systems analysis and development 👩🏽‍💻 <br>
       <img align="center" alt="Bootstrap" height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   </div>
   
-###  Learning 🚀
-  
-<div style="display:inline_block">
-    <img align="center" alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png"/> 
-    <img align="center" alt="Angular" height="50" width="50" src="https://img.icons8.com/color/48/fa314a/angularjs.png"/>
-    <img align="center" alt="MySQL" height="50" width="50" src="https://img.icons8.com/color/48/4a90e2/mysql-logo.png"/>
-    <img align="center" alt="SQL Server" height="50" width="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-    <img align="center" alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-    <img align="center" alt="Firebase" height="50" width="50" src="https://img.icons8.com/color/344/google-firebase-console.png"/>
-</div>
-  
-### Basic 🎢
-  <div>
-      <img align="center" alt="Sass" height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
-      <img align="center" alt="Django" height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png"/>
-      <img align="center" alt="Java" height="50" width="50" src="https://img.icons8.com/color/java"/>
-      <img align="center" alt="Python" height="50" width="50" src="https://img.icons8.com/color/python"/>
-      <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/fluency/48/000000/docker.png"/>
-      <img align="center" alt="Jquery" height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/>
-<!--       <img align="center" alt="PHP" height="50" width="50" src="https://img.icons8.com/dusk/64/4a90e2/php-logo.png"/> -->
-  </div>
-  
 <div style="display:inline_block">
     
   ### Find me elsewhere 🌎      <a href="https://github.com/camilams27"><img align="right" alt="Camila-Animation" src="https://i.picasion.com/pic91/6361b75c88ba96505e287fa9833686a9.gif" widht="150" height="150"></a>
