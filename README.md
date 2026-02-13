@@ -1,12 +1,11 @@
 ### < Hello World! >
 My name is Camila Silva 👩🏽🇧🇷 <br>
-I'm a studant of systems analysis and development 👩🏽‍💻 <br>
+I'm a systems analysis and development 👩🏽‍💻 <br>
 📍 Pernambuco, Brazil <br>
   
 <div>
   <a href="https://github.com/camilams27">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilams27&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>       -->
- 
 </div>
    
 <div style="display:inline_block">
